@@ -1,0 +1,6 @@
+ro.mediatek.chip_ver=S01
+ro.mediatek.platform=MT6873
+ro.mtk_tee_gp_support=1
+ro.mtk_microtrust_tee_support=1
+ro.hardware.gatekeeper=beanpod
+ro.adb.secure=0
